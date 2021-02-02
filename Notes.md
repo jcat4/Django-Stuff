@@ -1,4 +1,4 @@
-##1. Had to install virualenv & Django
+## 1. Had to install virualenv & Django
 
 It was actually already installed. I followed [this](https://docs.djangoproject.com/en/3.1/topics/install/#installing-an-official-release-with-pip) to do it.
 
